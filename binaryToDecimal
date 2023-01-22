@@ -1,0 +1,18 @@
+function binaryToDecimal(binary) {
+    return parseInt(binary, 2);
+}
+
+
+function decimalConverter(binary) {
+    return parseInt(binary, 2);
+}
+
+
+function binaryConverter(binary) {
+    return parseInt(binary, 2);
+}
+
+
+function convertBinaryToDecimal(binary) {
+    return parseInt(binary, 2);
+}
